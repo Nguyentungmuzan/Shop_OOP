@@ -1,0 +1,15 @@
+C:\Users\Tung\Desktop\Greenwich University\1651-Advanced programing\BT\ASM_Final\obj\Debug\net7.0\ASM_Final.csproj.AssemblyReference.cache
+C:\Users\Tung\Desktop\Greenwich University\1651-Advanced programing\BT\ASM_Final\obj\Debug\net7.0\ASM_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tung\Desktop\Greenwich University\1651-Advanced programing\BT\ASM_Final\obj\Debug\net7.0\ASM_Final.AssemblyInfoInputs.cache
+C:\Users\Tung\Desktop\Greenwich University\1651-Advanced programing\BT\ASM_Final\obj\Debug\net7.0\ASM_Final.AssemblyInfo.cs
+C:\Users\Tung\Desktop\Greenwich University\1651-Advanced programing\BT\ASM_Final\obj\Debug\net7.0\ASM_Final.csproj.CoreCompileInputs.cache
+C:\Users\Tung\Desktop\Greenwich University\1651-Advanced programing\BT\ASM_Final\bin\Debug\net7.0\ASM_Final.exe
+C:\Users\Tung\Desktop\Greenwich University\1651-Advanced programing\BT\ASM_Final\bin\Debug\net7.0\ASM_Final.deps.json
+C:\Users\Tung\Desktop\Greenwich University\1651-Advanced programing\BT\ASM_Final\bin\Debug\net7.0\ASM_Final.runtimeconfig.json
+C:\Users\Tung\Desktop\Greenwich University\1651-Advanced programing\BT\ASM_Final\bin\Debug\net7.0\ASM_Final.dll
+C:\Users\Tung\Desktop\Greenwich University\1651-Advanced programing\BT\ASM_Final\bin\Debug\net7.0\ASM_Final.pdb
+C:\Users\Tung\Desktop\Greenwich University\1651-Advanced programing\BT\ASM_Final\obj\Debug\net7.0\ASM_Final.dll
+C:\Users\Tung\Desktop\Greenwich University\1651-Advanced programing\BT\ASM_Final\obj\Debug\net7.0\refint\ASM_Final.dll
+C:\Users\Tung\Desktop\Greenwich University\1651-Advanced programing\BT\ASM_Final\obj\Debug\net7.0\ASM_Final.pdb
+C:\Users\Tung\Desktop\Greenwich University\1651-Advanced programing\BT\ASM_Final\obj\Debug\net7.0\ASM_Final.genruntimeconfig.cache
+C:\Users\Tung\Desktop\Greenwich University\1651-Advanced programing\BT\ASM_Final\obj\Debug\net7.0\ref\ASM_Final.dll
